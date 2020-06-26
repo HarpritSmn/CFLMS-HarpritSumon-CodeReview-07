@@ -1,0 +1,20 @@
+.dest{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 22rem;
+    height: 30rem;
+    margin: 15px;
+}
+
+.bilder{
+    width: 100%;
+    max-width: 100%;
+    height: 40px;
+}
+
+
+
